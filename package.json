@@ -9,7 +9,7 @@
     "make": "electron-forge make",
     "publish": "electron-forge publish"
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/nashuo21/electron-start.git",
   "keywords": [
     "Electron",
     "quick",
@@ -17,7 +17,7 @@
     "tutorial",
     "demo"
   ],
-  "author": "GitHub",
+  "author": "315578808@qq.com",
   "license": "CC0-1.0",
   "devDependencies": {
     "@electron-forge/cli": "^7.5.0",
